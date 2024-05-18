@@ -1,0 +1,73 @@
+/* table{
+    border: 3px solid rgb(42, 184, 202); 
+    height: 70px; width: 250px;
+
+}
+th{
+    border: 1px solid rgb(26, 166, 221);
+    height: 70px; width: 250px;
+}
+td{
+    border: 1px solid rgb(117, 112, 80);
+    height: 70px; width: 250px;
+}
+.but{
+    background-color: blue;
+}
+.but1{
+    background-color: red;
+} */
+
+
+
+
+
+table{
+    
+    border: 3px solid black;
+    background-color: aqua
+
+}
+.th1{
+    height: 6em;
+    width: 7em;
+    background-color: rgb(41, 26, 59);
+    color: white;
+    border: 2px solid black;
+    background-color: ;
+}
+.th2{
+    height: 7em;
+    width: 8em;
+    border: 2px solid black;
+    text-align: center;
+}
+.but1{
+    background-color: rgb(247, 108, 201);
+}
+.but2{
+    background-color: rgb(107, 107, 238);
+}
+button{
+    color: rgb(99, 4, 20);
+    
+}
+button:hover{
+    cursor:pointer;
+    height: 50px;
+    width: 4opx;
+}
+.img1{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+img:hover{
+    transform: scale(2);
+    transition-duration: 3s;
+}
+.pak:hover{
+    background-color: rgb(192, 8, 8);
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
